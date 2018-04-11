@@ -10,8 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String[] countries = new String[]{"Belgium", "France", "Italy", "Germany", "Spain"};
 
-    TextView textView;
-    Boolean text = false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
